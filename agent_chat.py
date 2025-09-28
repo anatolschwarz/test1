@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Activation:
+"""Activation1111:
     source ~/tg/bin/activate    # your venv
     cd /mnt/c/Tmp/
     if ~/.bashrc does not contain the secrest -
@@ -259,5 +259,6 @@ async def main():
     await client.start()
     print("Ready. In Saved Messages send:\n/scan\n/ask <שאלה בעברית>")
     await client.run_until_disconnected()
+
 
 asyncio.run(main())
