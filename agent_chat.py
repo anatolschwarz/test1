@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""Activation1111:
+"""Activation11:
     source ~/tg/bin/activate    # your venv
     cd /mnt/c/Tmp/
     if ~/.bashrc does not contain the secrest -
